@@ -1,0 +1,19 @@
+// Setup environment 
+// - $conda create -p venv python==3.12  //venv - environment name
+// need to activate environment - $conda activate venv/
+
+----------
+ipykernel
+
+----------
+numpy
+
+two way install
+1) In Jupitor - !pip install numpy
+2) In terminal - pip install numpy (or) pip install -r requirements.txt
+--------------
+pandas
+
+1) In Jupitor - !pip install pandas
+2) In terminal - pip install pandas (or) pip install -r requirements.txt
+--------------
